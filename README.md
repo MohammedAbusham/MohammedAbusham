@@ -8,7 +8,7 @@
 ## Languages and Tools:
 
 #### ![html5](https://octodex.github.com/images/minion.png) ![css3](https://octodex.github.com/images/minion.png)
-#### ![git](https://octodex.github.com/images/minion.png)
+#### ![git](https://octodex.github.com/images/dojocat.jpg)
 #### ![heroku](https://octodex.github.com/images/minion.png)
 #### ![linux](https://octodex.github.com/images/minion.png)
 #### ![mongodb](https://octodex.github.com/images/minion.png)
