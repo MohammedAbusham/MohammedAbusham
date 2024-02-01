@@ -7,7 +7,7 @@
 
 ## Languages and Tools:
 
-#### ![html5](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/css3.png) ![css3](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/css3.png)
+#### ![html5](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/html5.png) ![css3](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/css3.png)
 #### ![git](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/git.png)
 #### ![heroku](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/heroku.png)
 #### ![linux](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/linux.jpg)
