@@ -1,4 +1,4 @@
-# Hi, I am Mohammed AKA Mo 8-)
+# Hi, I am Mohammed AKA Mo 😎
 ## I have technical experience and interest in 
 + Technology
 + Data Science.
