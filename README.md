@@ -5,5 +5,15 @@
 + MLOps
 + Data Engineering
 
-
-css3  flask git heroku html5 linux mongodb mysql  postman python scikit_learn 
+## Languages and Tools:
+css3
+flask
+git
+heroku
+html5
+linux
+mongodb
+mysql
+postman
+python
+scikit_learn ![Minion](https://octodex.github.com/images/minion.png)
