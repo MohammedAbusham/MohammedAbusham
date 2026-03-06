@@ -1,11 +1,83 @@
-# Hi, I am Mohammed AKA Mo 😎
-## I have technical experience and interest in 
-+ Technology
-+ Data Science.
-+ MLOps
-+ Data Engineering
+# Hi 👋 I'm [Your Name]
 
-## Languages and Tools:
+🚀 DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Platform Reliability  
 
-###### ![html5](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/html5.png) ![css3](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/css3.png) ![git](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/git.png) ![heroku](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/heroku.png) ![linux](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/linux.jpg) ![mongodb](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/mongodb.png) ![mysql](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/mysql.png) ![postman](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/postman.png) ![python](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/python.jpg) ![scikit_learn](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/scikit_learn.png) ![flask](https://github.com/MohammedAbusham/MohammedAbusham/blob/main/flask.png)
+I design, automate, and optimize infrastructure and delivery pipelines that enable teams to ship faster, safer, and more reliably.
 
+- 🔧 Specializing in **Infrastructure as Code, CI/CD pipelines, and Cloud-native platforms**
+- ☁️ Experienced with **AWS / Azure / GCP**
+- 📦 Building scalable environments using **Docker & Kubernetes**
+- 🔁 Automating deployments with **GitHub Actions / Jenkins / GitLab CI**
+- 📊 Focused on **observability, reliability, and performance**
+
+---
+
+# 🧰 DevOps Toolbox
+
+## Cloud Platforms
+- AWS
+
+## Infrastructure as Code
+- Terraform
+- CloudFormation
+
+## Containers & Orchestration
+- Docker
+- Kubernetes
+
+## CI/CD
+- GitHub Actions
+
+## Configuration Management
+- Ansible
+
+## Monitoring & Observability
+- Prometheus
+- Grafana
+
+## Version Control & Collaboration
+- Git
+- GitHub
+
+---
+
+# 📌 Featured DevOps Projects
+
+## 🔹 CI/CD Pipeline Automation
+A complete CI/CD pipeline implementation using GitHub Actions.
+
+**Features**
+- Automated builds and tests
+- Docker image publishing
+- Security scanning
+- Automated deployment
+
+---
+
+## 🔹 Infrastructure as Code Modules
+Reusable Terraform modules for provisioning scalable cloud infrastructure.
+
+**Modules include**
+- VPC networking
+- Kubernetes cluster setup
+- IAM policy automation
+
+---
+
+# 📚 Currently Learning
+
+- Platform Engineering
+- Kubernetes 
+- GitOps workflows
+- Cloud cost optimization
+- MLOps
+
+---
+
+# 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/mohammed-hussien-b665943a/
+
+---
+
+⭐ Open to collaborating on **DevOps, Cloud Infrastructure, and Automation projects.**
