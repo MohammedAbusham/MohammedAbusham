@@ -4,10 +4,10 @@
 
 I design, automate, and optimize infrastructure and delivery pipelines that enable teams to ship faster, safer, and more reliably.
 
-- 🔧 Specializing in **Infrastructure as Code, CI/CD pipelines, and Cloud-native platforms**
+- 🔧 Specialising in **Infrastructure as Code, CI/CD pipelines, and Cloud-native platforms**
 - ☁️ Experienced with **AWS / Azure / GCP**
 - 📦 Building scalable environments using **Docker & Kubernetes**
-- 🔁 Automating deployments with **GitHub Actions / Jenkins / GitLab CI**
+- 🔁 Automating deployments with **GitHub Actions**
 - 📊 Focused on **observability, reliability, and performance**
 
 ---
